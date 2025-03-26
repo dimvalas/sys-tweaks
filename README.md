@@ -15,4 +15,4 @@
 
 **⬇ DOWNLOAD PAGE**
 
-If u want to download all the scripts please refer going to the https://github.com/dimvalas/sys-tweaks/releases!
+If u want to download all the scripts please go here ➡ https://github.com/dimvalas/sys-tweaks/releases!
