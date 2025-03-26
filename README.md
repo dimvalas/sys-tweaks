@@ -1,4 +1,4 @@
-# sys-tweaks
+# TWEAKS
 
 COMPABILITY ⬇
 
