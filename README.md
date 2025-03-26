@@ -11,7 +11,6 @@
 **⬇ Simple System And Network Tweaks**
 
 1. Enchance your System and Network
-2. Disable Telemetry tasks
 
 **⬇ DOWNLOAD PAGE**
 
