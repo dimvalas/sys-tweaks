@@ -15,3 +15,7 @@
 **⬇ DOWNLOAD PAGE**
 
 If u want to download all the scripts please go here ➡ https://github.com/dimvalas/sys-tweaks/releases!
+
+**⬇ DEBLOATED WINDOWS**
+
+You can use _**Tiny11/10**_. Please activate _**Windows**_ first then use the windows disabler script.
